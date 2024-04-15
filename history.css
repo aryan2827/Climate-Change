@@ -1,0 +1,44 @@
+html{
+    background-color: black;
+}
+#navbar{
+    background:rgb(37, 139, 212);
+    height:30px;
+    border:2px solid black;
+    margin-top:1px;
+    padding:10px;
+}
+
+a{
+    color:whitesmoke;
+    margin-right:85px; 
+    font-size:20px;
+    font-style: oblique;
+    padding:40px;
+    text-decoration:none;
+
+}
+
+.his{
+    display: flex;
+    background-image: url("history.jpg");
+    height:400px;
+    background-size:cover;
+    font-size:70px;
+    justify-content: center;
+    color:rgb(37, 139, 212);
+    margin-top:0px;
+
+}
+h2{
+    font-size:30px;
+    color:white;
+    font-style: oblique;
+}
+p{
+    font-size: 20px;
+    color:white;
+}
+.left{
+    margin-left: 140px;
+}

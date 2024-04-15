@@ -1,0 +1,47 @@
+html{
+    background-color: black;
+}
+#navbar{
+    background-color: rgb(182, 227, 234);
+    height:30px;
+    border:2px solid black;
+    margin-top:1px;
+    padding:10px;
+}
+
+a{
+    color:rgb(255, 255, 255);
+    margin-right:85px; 
+    font-size:20px;
+    font-style: oblique;
+    padding:40px;
+    text-decoration: none;
+}
+h1{
+    display:flex;
+    background-image: url("situtation.jpg");
+    height:400px;
+    background-size: cover;
+    justify-content: center;
+    margin-top: 0%;
+    color:rgb(255, 255, 255);
+    font-size: 90px;
+}
+h3{
+    color:white;
+    font-size:40px;
+    text-decoration: underline;
+    font-style: oblique;
+}
+p{
+    color:white;
+    font-size:25px;
+}
+.img1{
+    height:600px;
+    width:1000px;
+    margin-left:130px;
+}
+.main{
+    margin-left:50px;
+}

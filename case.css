@@ -1,0 +1,44 @@
+html{
+    background-color: black;
+}
+.intro{
+    background-image: url("karsten-wurth-0w-uTa0Xz7w-unsplash.jpg");
+    display:flex;
+    height:400px;
+    background-size: cover;
+    margin-top:1px;
+}
+h1{
+    font-size:70px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#navbar{
+    background:black;
+    height:30px;
+    border:2px solid white;
+    margin-top:1px;
+    padding:10px;
+}
+a{
+    color:white;
+    margin-right:120px; 
+    font-size:20px;
+    font-style: oblique;
+    padding:20px;
+}
+h2{
+    font-size: 40px;
+    color:white;
+    font-style: oblique;
+}
+p{
+    font-size:25px;
+    color:white;
+}
+.right{
+    margin-left:550px;
+}
+.centre{
+    margin-left:40px;
+}

@@ -1,0 +1,46 @@
+html{
+    background-color: black;
+}
+.rea{
+    display: flex;
+    background-image: url("cause.jpg");
+    height:400px;
+    background-size:cover;
+    font-size:70px;
+    color:rgb(136, 67, 17);
+    justify-content: center;
+    margin-top: 0%;
+}
+#navbar{
+    background:rgb(136, 67, 17);
+    height:30px;
+    border:2px solid black;
+    margin-top:1px;
+    padding:10px;
+}
+
+a{
+    color:whitesmoke;
+    margin-right:85px; 
+    font-size:20px;
+    font-style: oblique;
+    padding:40px;
+    text-decoration: none;
+
+}
+h4{
+    color:white;
+    font-size:30px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+p{
+    color:white;
+    font-size: 20px;
+}
+.left{
+    margin-left:500px;
+}
+.right{
+    margin-left:100px;
+}

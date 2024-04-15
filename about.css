@@ -1,0 +1,61 @@
+*{
+    color:white;
+}
+html{
+    background: black;
+}
+#navbar{
+    background-color: rgb(154, 10, 10);
+    height:30px;
+    border:2px solid black;
+    margin-top:1px;
+    padding:10px;
+}
+
+a{
+    color:whitesmoke;
+    margin-right:85px; 
+    font-size:20px;
+    font-style: oblique;
+    padding:40px;
+    text-decoration: none;
+}
+table,td{
+    border:3px solid white;
+    width:800px;
+    margin-top: 30px;
+    margin-left:270px;
+    padding:10px;
+}
+.heading{
+    display: flex;
+    background-image: url("heather-gill-tI03wqvMAbg-unsplash.jpg");
+    background-size: cover;
+    height:400px;
+}
+h1{
+    font-size: 80px;
+    color:rgb(154, 10, 10);
+    position: relative;
+    margin-left:500px;
+    margin-top:150px;
+    
+}
+.icon{
+    position:absolute;
+    margin-bottom:80%;
+    margin-left:90%;
+}
+
+li{
+    font-size:25px;
+  
+    
+}
+h2{
+    font-size:50px;
+    color:rgb(154, 10, 10);
+}
+p{
+    font-size: 25px;
+}
